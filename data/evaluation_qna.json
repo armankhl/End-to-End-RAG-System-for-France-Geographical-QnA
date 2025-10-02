@@ -1,0 +1,398 @@
+[
+    {
+        "question": "What is the approximate hexagonal shape of France bordered by?",
+        "ground_truth": "France is bordered by Belgium, Luxembourg, Germany, Switzerland, Italy, the Mediterranean Sea, Spain, Andorra, the Bay of Biscay, and the English Channel."
+    },
+    {
+        "question": "Which island in the Mediterranean is treated as an integral part of France?",
+        "ground_truth": "The island of Corsica in the Mediterranean is treated as an integral part of the country."
+    },
+    {
+        "question": "What is the general composition of the French landscape?",
+        "ground_truth": "The French landscape is for the most part composed of relatively low-lying plains, plateaus, and older mountain blocks, or massifs."
+    },
+    {
+        "question": "What geological epoch significantly shaped the French landscape through glaciation?",
+        "ground_truth": "Glaciation during the Pleistocene Epoch (about 2,600,000 to 11,700 years ago) significantly shaped the landscape."
+    },
+    {
+        "question": "What fine, windblown material created by periglacial action forms the basis of France's most fertile lowland soils?",
+        "ground_truth": "Periglacial action generated sheets of fine windblown limon, or loess, which is the basis of the most fertile lowland soils."
+    },
+    {
+        "question": "In what shape are the ancient Hercynian mountains in France arranged?",
+        "ground_truth": "The physical structure of France is dominated by a group of ancient mountains in the shape of a gigantic V."
+    },
+    {
+        "question": "What is a common characteristic of the Hercynian highlands?",
+        "ground_truth": "A common characteristic of the Hercynian highlands is repeated planation, or flattening."
+    },
+    {
+        "question": "Which two rivers cross the valleys of the Ardennes massif?",
+        "ground_truth": "The valleys of the Ardennes massif are crossed by the Sambre and Meuse rivers."
+    },
+    {
+        "question": "What is the highest summit of the Vosges massif and its elevation?",
+        "ground_truth": "The highest summit of the Vosges massif is the Ballon de Guebwiller (Mount Guebwiller), at an elevation of 4,669 feet (1,423 metres)."
+    },
+    {
+        "question": "How much of France's total area does the Massif Central cover?",
+        "ground_truth": "The Massif Central covers about 33,000 square miles (86,000 square km), or approximately one-sixth of France's area."
+    },
+    {
+        "question": "What is the highest summit within the Massif Central?",
+        "ground_truth": "The highest summit of the Massif Central is Puy de Sancy, at 6,184 feet (1,885 metres)."
+    },
+    {
+        "question": "What is the name of the chain of recently formed cinder cones in the Massif Central?",
+        "ground_truth": "The Cha\u00eene des Puys is a chain of numerous cinder cones formed about 10,000 years ago."
+    },
+    {
+        "question": "What is a relic of the past volcanic activity in the Massif Central?",
+        "ground_truth": "Numerous mineral springs, such as those at Vichy, are a relic of past volcanic activity."
+    },
+    {
+        "question": "What are the limestone plateaus in the southwest of the Massif Central called?",
+        "ground_truth": "The limestone plateaus in the southwest of the Massif Central are known as causses."
+    },
+    {
+        "question": "Name a famous grotto with prehistoric art located in the V\u00e9z\u00e8re valley.",
+        "ground_truth": "The Lascaux Grotto, bearing remains of prehistoric art, is located in the V\u00e9z\u00e8re valley."
+    },
+    {
+        "question": "What is the highest point of the Massif Armoricain?",
+        "ground_truth": "The highest point of the Massif Armoricain is the Mont des Avaloirs, at an elevation of 1,368 feet (417 metres)."
+    },
+    {
+        "question": "What are the isolated hills, such as the Butte de Montmartre in Paris, called?",
+        "ground_truth": "They are called buttes, which are eroded remnants of higher formations."
+    },
+    {
+        "question": "What low-grade iron ore is found in the Moselle Hills of Lorraine?",
+        "ground_truth": "The Moselle Hills are noted for their minette, which is a low-grade iron ore."
+    },
+    {
+        "question": "What feature protects the reclaimed marshes of the Flanders Plain from the sea?",
+        "ground_truth": "Coastal sand dunes protect the reclaimed marshes of the Flanders Plain from invasion by the sea."
+    },
+    {
+        "question": "What has the once marshy Landes region been reclaimed and planted with?",
+        "ground_truth": "The Landes has been reclaimed and planted with maritime pine."
+    },
+    {
+        "question": "What lines the Bay of Biscay coast south of the Gironde estuary?",
+        "ground_truth": "The Bay of Biscay coast south of the Gironde estuary is lined by enormous sand dunes, behind which are shallow lagoons."
+    },
+    {
+        "question": "Which mountain range forms a natural barrier between France and Spain?",
+        "ground_truth": "The Pyrenees form a natural barrier between France and Spain."
+    },
+    {
+        "question": "In what year was a section of the Pyrenees centering on Mont Perdu named a UNESCO World Heritage site?",
+        "ground_truth": "A section of the Pyrenees centering on Mont Perdu was named a UNESCO World Heritage site in 1997."
+    },
+    {
+        "question": "What type of rock primarily composes the Jura Mountains?",
+        "ground_truth": "The Jura Mountains are composed of folded limestone."
+    },
+    {
+        "question": "What is the highest point in the French Alps?",
+        "ground_truth": "The highest point in the French Alps is Mont Blanc, at 15,771 feet (4,807 metres)."
+    },
+    {
+        "question": "What feature makes the northern Alps relatively easy to cross?",
+        "ground_truth": "The northern Alps are relatively easy to cross because of the numerous valleys created by the movement of glaciers."
+    },
+    {
+        "question": "What is the character of the valleys in the southern Alps?",
+        "ground_truth": "The valleys of the southern Alps, which were not glaciated, form narrow and winding gorges."
+    },
+    {
+        "question": "What is the name of the region on the Rh\u00f4ne delta that is an important wetland nature reserve?",
+        "ground_truth": "The Camargue region, located on the Rh\u00f4ne delta, is an important wetland nature reserve."
+    },
+    {
+        "question": "What is France's most famous tourist and retirement area on the Mediterranean?",
+        "ground_truth": "The C\u00f4te d'Azur, also known as the French Riviera, is the country's most famous tourist and retirement area."
+    },
+    {
+        "question": "What is the term for the dense thickets of undergrowth found on the island of Corsica?",
+        "ground_truth": "The dense thickets of undergrowth found on Corsica are known as maquis."
+    },
+    {
+        "question": "What is the longest river in France?",
+        "ground_truth": "The Loire is the longest French river, flowing for 634 miles (1,020 km)."
+    },
+    {
+        "question": "What is the length of the Seine River?",
+        "ground_truth": "The Seine River is 485 miles (780 km) in length."
+    },
+    {
+        "question": "What is the name of the island in the Seine River that forms the heart of Paris?",
+        "ground_truth": "The \u00cele de la Cit\u00e9 is an island in the Seine that forms the heart of Paris."
+    },
+    {
+        "question": "In what year was the Loire valley between Sully-sur-Loire and Chalonnes designated a UNESCO World Heritage site?",
+        "ground_truth": "The Loire valley between Sully-sur-Loire and Chalonnes was designated a UNESCO World Heritage site in 2000."
+    },
+    {
+        "question": "What is the shortest of the main French rivers?",
+        "ground_truth": "The Garonne is the shortest of the main French rivers, with a length of 357 miles (575 km)."
+    },
+    {
+        "question": "Where is the source of the Garonne River located?",
+        "ground_truth": "The source of the Garonne River is in the central Pyrenees in the Aran Valley in Spain."
+    },
+    {
+        "question": "What is the name of the estuary formed by the confluence of the Garonne and Dordogne rivers?",
+        "ground_truth": "The Gironde estuary is formed by the confluence of the Garonne and Dordogne rivers."
+    },
+    {
+        "question": "Which major tributary does the Rh\u00f4ne River receive at Lyon?",
+        "ground_truth": "At Lyon, the Rh\u00f4ne River receives its major tributary, the Sa\u00f4ne."
+    },
+    {
+        "question": "What characteristic ensures the Rh\u00f4ne has an ample flow in all seasons?",
+        "ground_truth": "Its complex regime, which combines a late spring\u2013early summer peak from Alpine snowmelt with a fall-winter peak from Mediterranean rainfall, ensures an ample flow."
+    },
+    {
+        "question": "What is the primary purpose of the Bas Rh\u00f4ne\u2013Languedoc canal?",
+        "ground_truth": "The primary purpose of the Bas Rh\u00f4ne\u2013Languedoc canal is to provide irrigation for the region."
+    },
+    {
+        "question": "For how many miles does the Rhine River form France's eastern boundary?",
+        "ground_truth": "The Rhine River forms the eastern boundary of France for some 118 miles (190 km)."
+    },
+    {
+        "question": "What is the largest natural lake located entirely within France?",
+        "ground_truth": "Lake Bourget is the largest natural lake entirely within France."
+    },
+    {
+        "question": "What type of soil covers most of France on a broad scale?",
+        "ground_truth": "On a broad, general scale, most of France is covered by brown forest soils, also known as brown earths."
+    },
+    {
+        "question": "In northwestern France, what causes the degradation of brown earth soil?",
+        "ground_truth": "In northwestern France, high rainfall and cool conditions cause minerals to be leached downward, producing a more acidic and less fertile soil."
+    },
+    {
+        "question": "Why are Mediterranean soils typically red in color?",
+        "ground_truth": "Mediterranean soils are typically red due to the upward migration of iron oxides during the warm, dry summers."
+    },
+    {
+        "question": "What human action has historically maintained or improved soil quality?",
+        "ground_truth": "Farmers have maintained or improved soil quality through the ages by draining and manuring."
+    },
+    {
+        "question": "What is a potential negative impact of large-scale arable cultivation without animal manure?",
+        "ground_truth": "Large-scale arable cultivation without animal manure can lead to soil degradation and erosion."
+    },
+    {
+        "question": "What two factors moderate the oceanic influences on France's climate?",
+        "ground_truth": "Oceanic influences are moderated by the North Atlantic Drift on the west and the Mediterranean Sea on the south."
+    },
+    {
+        "question": "What is the general trend of average annual temperatures across France?",
+        "ground_truth": "Average annual temperatures generally decline to the north."
+    },
+    {
+        "question": "What are the average annual temperatures in Nice and Lille?",
+        "ground_truth": "The average annual temperature is 59 \u00b0F (15 \u00b0C) in Nice and 50 \u00b0F (10 \u00b0C) in Lille."
+    },
+    {
+        "question": "What is a key characteristic of the pure oceanic climate in Brittany regarding temperature?",
+        "ground_truth": "The pure oceanic climate in Brittany is characterized by its low annual temperature variation."
+    },
+    {
+        "question": "Which French city experiences the country's greatest temperature range?",
+        "ground_truth": "The city of Strasbourg has the greatest temperature range in France."
+    },
+    {
+        "question": "When does the continental region of northeastern France receive its maximum precipitation?",
+        "ground_truth": "The continental region receives its maximum precipitation in summer, with storms in June and July."
+    },
+    {
+        "question": "What is a defining feature of the Mediterranean climate's summer?",
+        "ground_truth": "The Mediterranean summer is nearly completely dry for at least three months."
+    },
+    {
+        "question": "What is the name for the violent north winds that affect southern France?",
+        "ground_truth": "The violent north winds that affect southern France are called the mistral."
+    },
+    {
+        "question": "What causes the mistral winds?",
+        "ground_truth": "The mistral is caused by high-pressure areas from central France moving toward low-pressure areas in the Gulf of Genoa."
+    },
+    {
+        "question": "How is the climate of the Aquitaine Basin described?",
+        "ground_truth": "The climate of the Aquitaine Basin is considered intermediate between the oceanic and Mediterranean climates."
+    },
+    {
+        "question": "Above what elevation is snow cover perpetual in the Alps?",
+        "ground_truth": "In the Alps, snow cover is perpetual above 9,000 feet (2,700 metres)."
+    },
+    {
+        "question": "What is the term for the sunny, south-facing slopes in mountain valleys?",
+        "ground_truth": "The term for sunny, south-facing slopes is 'adrets'."
+    },
+    {
+        "question": "What are the two major biogeographic vegetational divisions in France?",
+        "ground_truth": "The two major divisions are the Holarctic province and the smaller Mediterranean province."
+    },
+    {
+        "question": "What is heathland in western France primarily a result of?",
+        "ground_truth": "Heathland is a predominantly man-made feature resulting from forest clearance, burning, and grazing."
+    },
+    {
+        "question": "What type of vegetation is characteristic of the limestone plateaus (causses) of the Massif Central?",
+        "ground_truth": "The vegetation is characterized by broom, heath, lavender, and juniper among bare rocks."
+    },
+    {
+        "question": "What is maquis, found on the plateaus of Roussillon?",
+        "ground_truth": "Maquis consists of dense thickets of drought-resistant shrubs, such as cistuses, broom, and tree heather."
+    },
+    {
+        "question": "What is the name for the rock heath found in Provence's hottest and driest terrain?",
+        "ground_truth": "The rock heath found in Provence's hottest and driest terrain is known as garigue."
+    },
+    {
+        "question": "Which type of tree, along with the stone pine, dominates the landscape in the Mediterranean zone?",
+        "ground_truth": "The introduced cypress dominates the landscape in the Mediterranean zone."
+    },
+    {
+        "question": "At what elevation in the C\u00e9vennes does deciduous forest, mainly sweet chestnut, appear?",
+        "ground_truth": "Deciduous forest appears at elevations of about 2,600 feet (790 metres) in the C\u00e9vennes."
+    },
+    {
+        "question": "What fraction of France's territory is covered by forest?",
+        "ground_truth": "More than a quarter of France's territory is covered by forest."
+    },
+    {
+        "question": "What is the most extensive planted forest in western Europe, located in southwestern France?",
+        "ground_truth": "The planted forest of maritime pine in the Landes is said to be the most extensive in western Europe."
+    },
+    {
+        "question": "What is the increasing modern-day purpose of forests near urban areas like Fontainebleau?",
+        "ground_truth": "They are increasingly used as recreational amenities rather than just a source of wood."
+    },
+    {
+        "question": "Name two large mammals that are still hunted in France.",
+        "ground_truth": "Red deer and wild boar are two of the larger mammals still hunted in France."
+    },
+    {
+        "question": "What rare animal has been reintroduced to the high Alps?",
+        "ground_truth": "The ibex has been reintroduced to the high Alps."
+    },
+    {
+        "question": "Name two endangered species found in the Pyrenees.",
+        "ground_truth": "The brown bear and the lynx are two endangered species found in the Pyrenees."
+    },
+    {
+        "question": "Which bird, a migrant from Africa, can be found in southern France?",
+        "ground_truth": "The flamingo is a migrant from Africa that can be found in southern France."
+    },
+    {
+        "question": "What types of rocks from the Paleozoic Era characterize the Ardennes massif?",
+        "ground_truth": "The Ardennes massif is characterized by rocks of slate and quartz from the Paleozoic Era."
+    },
+    {
+        "question": "Which downfaulted basin near Clermont-Ferrand was filled with Paleogene and Neogene sediments?",
+        "ground_truth": "The Limagne basin, near Clermont-Ferrand, is a downfaulted basin filled with such sediments."
+    },
+    {
+        "question": "What is the primary agricultural characteristic of the northern chalk plateaus of Picardy and Artois?",
+        "ground_truth": "These plateaus are generally covered with limon, which provides for a rich agriculture."
+    },
+    {
+        "question": "What is the primary hindrance to navigation on the Loire River?",
+        "ground_truth": "The primary hindrance to navigation on the Loire is its torrential flow."
+    },
+    {
+        "question": "What causes the high waters in the Garonne River during winter and spring?",
+        "ground_truth": "High waters are caused by oceanic rainfall in winter and the melting of snow in spring."
+    },
+    {
+        "question": "What has been the primary driver of urban expansion along the Provence coast?",
+        "ground_truth": "The provision of drinking water from the Canal de Provence has been a primary driver of urban expansion."
+    },
+    {
+        "question": "What are xerophytic plants, encouraged in the Mediterranean zone?",
+        "ground_truth": "They are plants that retard water loss by means of spiny, woolly, or glossy leaves, which are encouraged by the pronounced summer drought."
+    },
+    {
+        "question": "What is the current status of the seal population on the French coasts?",
+        "ground_truth": "Seals have almost entirely disappeared from the French coasts."
+    },
+    {
+        "question": "What environmental concern is associated with the chain of atomic power stations along the Loire?",
+        "ground_truth": "They use the river's water for cooling, raising concerns among environmentalists, along with various dam projects on the river."
+    },
+    {
+        "question": "What river forms the eastern border of the Alsace Plain?",
+        "ground_truth": "The Alsace Plain is bordered by the Rhine River on the east."
+    },
+    {
+        "question": "For what is the middle Loire valley particularly famous?",
+        "ground_truth": "The middle Loire valley is famous for its ch\u00e2teaus and its scenic beauty."
+    },
+    {
+        "question": "What is the name of the gap that links the Loire countryside with the Aquitaine Basin?",
+        "ground_truth": "The gap that links the Loire countryside with the Aquitaine Basin is known as the Gate of Poitou."
+    },
+    {
+        "question": "What is the surface of the Landes region in southwestern France composed of?",
+        "ground_truth": "The surface of the Landes consists of fine sand underlain by an impermeable iron pan."
+    },
+    {
+        "question": "What is the primary effect of limestone and chalk on soil quality?",
+        "ground_truth": "Limestone and chalk enrich soils with lime, which is generally favorable for agriculture."
+    },
+    {
+        "question": "What is the average yearly temperature in Paris?",
+        "ground_truth": "The average yearly temperature in Paris is 53 \u00b0F (11 \u00b0C)."
+    },
+    {
+        "question": "What is the detrimental effect of the canalized Rhine River on the local environment?",
+        "ground_truth": "The canalization of the Rhine is considerably detrimental to the water table on both sides of the river."
+    },
+    {
+        "question": "What forms the watershed between the Seine and Rh\u00f4ne-Sa\u00f4ne river systems?",
+        "ground_truth": "The Jurassic limestone Plateau de Langres forms the watershed between the Seine and Rh\u00f4ne-Sa\u00f4ne river systems."
+    },
+    {
+        "question": "Where are most of France's forests located?",
+        "ground_truth": "Most of France's forests are on the upland massifs (like Ardennes and Vosges) and within the mountain chains (Jura, Alps, and Pyrenees)."
+    },
+    {
+        "question": "What gives the Massif Armoricain its generally east-west grain?",
+        "ground_truth": "Alternating bands of Paleozoic sediments and granitic rocks give the Massif Armoricain its east-west grain."
+    },
+    {
+        "question": "In which forest near Paris can one find sandy areas adjoining limestone formations?",
+        "ground_truth": "In the Forest of Fontainebleau, southwest of Paris, one can find sandy areas adjoining limestone formations."
+    },
+    {
+        "question": "From where do small rivers north of the Artois ridge flow into the North Sea?",
+        "ground_truth": "North of the Artois ridge, small rivers flow into the Escaut (Schelde) estuary via Belgium to reach the North Sea."
+    },
+    {
+        "question": "What kind of natural formations are the lakes in the Vosges and Jura mountains?",
+        "ground_truth": "The lakes in the Vosges are on ancient massifs, while those in the Jura are the result of structural faults."
+    },
+    {
+        "question": "What is the origin of the crater lakes found in the Massif Central?",
+        "ground_truth": "The crater lakes in the Massif Central are of volcanic origin."
+    },
+    {
+        "question": "What is the name for the shaded, north-facing slopes in mountain valleys?",
+        "ground_truth": "The term for shaded, north-facing slopes is 'ubacs'."
+    },
+    {
+        "question": "What is the primary cause of soil degradation in some areas of France?",
+        "ground_truth": "Large-scale arable cultivation with no use of animal manure is leading to soil degradation and erosion in some places."
+    },
+    {
+        "question": "How does the relief of the Aquitaine Basin differ from the Paris Basin?",
+        "ground_truth": "The Aquitaine Basin lacks the clearly marked concentric relief that is characteristic of the Paris Basin."
+    }
+]
