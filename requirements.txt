@@ -1,0 +1,25 @@
+# requirements.txt
+
+# FastAPI and Server
+fastapi
+uvicorn[standard]
+
+# Data Handling and Validation
+pydantic
+python-dotenv
+pandas
+numpy
+scikit-learn
+
+# AI & Embeddings
+sentence-transformers
+faiss-cpu
+httpx
+
+# Web Scraping
+requests
+beautifulsoup4
+nltk
+
+# UI
+streamlit

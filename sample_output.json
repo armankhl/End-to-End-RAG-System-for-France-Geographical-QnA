@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "top_k": {
+            "1": "Paris",
+            "2": "London", 
+            "3": "Berlin"
+        }
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "answer": "Berlin",
+        "top_k": {
+            "1": "Berlin",
+            "2": "Paris",
+            "3": "London"
+        }
+    }
+]
